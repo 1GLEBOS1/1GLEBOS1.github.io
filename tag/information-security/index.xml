@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>https://1glebos1.github.io&#39;/project/</link>
-      <atom:link href="https://1glebos1.github.io'/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Information Security | Academic</title>
+    <link>https://1glebos1.github.io&#39;/tag/information-security/</link>
+      <atom:link href="https://1glebos1.github.io'/tag/information-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information Security</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://1glebos1.github.io&#39;/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://1glebos1.github.io&#39;/project/</link>
+      <title>Information Security</title>
+      <link>https://1glebos1.github.io&#39;/tag/information-security/</link>
     </image>
     
     <item>
@@ -22,14 +22,6 @@
 &lt;p&gt;скринкаст 2 - &lt;a href=&#34;https://www.youtube.com/watch?v=XVdTY99lsII&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=XVdTY99lsII&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;скринкаст 3 - &lt;a href=&#34;https://www.youtube.com/watch?v=X9uD16w9mFY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=X9uD16w9mFY&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://1glebos1.github.io&#39;/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://1glebos1.github.io&#39;/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
